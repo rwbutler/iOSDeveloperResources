@@ -42,6 +42,13 @@ Resources for developers and designers seeking to create accessible iOS apps.
 - [iOS London](https://www.meetup.com/ioslondon/)
 - [NSLondon](https://www.meetup.com/NSLondon/)
 
+# Libraries
+
+## Directories
+- [Cocoa Controls](https://www.cocoacontrols.com/) - Searchable and browsable listing of software components for all Apple platforms (macOS/ iOS / tvOS and watchOS) with a focus on UI components.
+- [Cocoapods](https://cocoapods.org/) - A searchable directory of software libraries for Apple platforms that can be integrated using Cocoapods dependency manager.
+
+
 # Newsletters
 - [iOS Dev Weekly](https://iosdevweekly.com/) - Weekly newsletter out each Friday with an overview of what's happening in iOS.
 - [iOS Goodies](https://ios-goodies.com/)
