@@ -35,6 +35,9 @@ Resources for developers and designers seeking to create accessible iOS apps.
 - [iOSDevUK](https://www.iosdevuk.com/)
 - [WWDC](https://developer.apple.com/wwdc/)
 
+# Curations
+- [iOSDevDirectory](https://iosdevdirectory.com/) - iOSDevDirectory is a comprehensive collection of resources for iOS developers including blogs, podcasts, newsletters and YouTube channels.
+
 # Design Resources
 - [Apple Design Resources](https://developer.apple.com/design/resources/)
 
