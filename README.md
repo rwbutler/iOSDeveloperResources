@@ -7,8 +7,16 @@ A curated list of resources for iOS developers.
 	- [Coordinators](#coordinators) 
 - [Blogs](#blogs)
 - [Conferences](#conferences)
+	- [UK](#uk)
+	- [US](#us)
 - [Design Resources](#design-resources)
+- [Directories](#directories)
+- [Libraries](#libraries)
+	- [Accessibility](#accessibility)
 - [Meetups](#meetups)
+	- [UK](#uk)
+		- [London](#london)
+		- [Manchester](#manchester)
 - [Newsletters](#newsletters)
 - [Tools](#tools)
 	- [Dependency Management](#dependency-management) 
@@ -31,8 +39,10 @@ Resources for developers and designers seeking to create accessible iOS apps.
 # Blogs
 
 # Conferences
+## UK
 - [iOSCon](https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers)
 - [iOSDevUK](https://www.iosdevuk.com/)
+## US
 - [WWDC](https://developer.apple.com/wwdc/)
 
 # Curations
@@ -41,16 +51,24 @@ Resources for developers and designers seeking to create accessible iOS apps.
 # Design Resources
 - [Apple Design Resources](https://developer.apple.com/design/resources/)
 
-# Meetups
-- [iOS London](https://www.meetup.com/ioslondon/)
-- [NSLondon](https://www.meetup.com/NSLondon/)
-
-# Libraries
-
-## Directories
+# Directories
 - [Cocoa Controls](https://www.cocoacontrols.com/) - Searchable and browsable listing of software components for all Apple platforms (macOS/ iOS / tvOS and watchOS) with a focus on UI components.
 - [Cocoapods](https://cocoapods.org/) - A searchable directory of software libraries for Apple platforms that can be integrated using Cocoapods dependency manager.
+- [SwiftPMLibrary](https://github.com/daveverwer/SwiftPMLibrary) - Directory of [Swift Package Manager](https://swift.org/package-manager/) packages.
 
+# Libraries
+## Accessibility
+- [Capable](https://github.com/chrs1885/Capable) - Keep track of accessibility settings and enable users with disabilities to use your app.
+- [FlexibleRowHeightGridLayout](https://github.com/rwbutler/FlexibleRowHeightGridLayout) - A UICollectionView grid layout designed to support Dynamic Type by allowing the height of each row to size to fit content.
+- [TypographyKit](https://github.com/rwbutler/TypographyKit) - Consistent & accessible visual styling on iOS with support for Dynamic Type.
+
+# Meetups
+## UK
+### London
+- [iOS London](https://www.meetup.com/ioslondon/)
+- [NSLondon](https://www.meetup.com/NSLondon/)
+### Manchester
+- [NSManchester](https://www.meetup.com/NSManchester/)
 
 # Newsletters
 - [iOS Dev Weekly](https://iosdevweekly.com/) - Weekly newsletter out each Friday with an overview of what's happening in iOS.
@@ -68,6 +86,7 @@ Resources for developers and designers seeking to create accessible iOS apps.
 
 ## Linting
 - [SwiftLint](https://github.com/realm/SwiftLint) - A tool to enforce Swift style and conventions. 
+- [Xiblint](https://github.com/lyft/xiblint) - A tool for linting storyboards and xibs.
 
 # Tutorials
 - [Hacking With Swift](https://www.hackingwithswift.com/)
