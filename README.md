@@ -6,9 +6,11 @@ A curated list of resources for iOS developers.
 - [Architecture](#architecture)
 	- [Coordinators](#coordinators) 
 - [Blogs](#blogs)
+- [Books](#books)
 - [Conferences](#conferences)
 	- [UK](#uk)
 	- [US](#us)
+- [Courses](#courses)
 - [Design Resources](#design-resources)
 - [Directories](#directories)
 - [Libraries](#libraries)
@@ -36,14 +38,29 @@ Resources for developers and designers seeking to create accessible iOS apps.
 - [Coordinator Tutorial for iOS: Getting Started](https://www.raywenderlich.com/158-coordinator-tutorial-for-ios-getting-started)
 - [How to use the coordinator pattern in iOS apps](https://www.hackingwithswift.com/articles/71/how-to-use-the-coordinator-pattern-in-ios-apps)
 
+# Books
+- [Advanced Swift](https://www.objc.io/books/advanced-swift/) - Chris Eidhof, Ole Begemann & Airspeed Velocity
+- [CFHipsterRef - Low-Level Programming on iOS and OS X](https://gumroad.com/l/cfhipsterref) - Mattt Thompson
+- [NSHipster – Obscure Topics in Cocoa and Swift](https://gumroad.com/l/nshipster) - Mattt Thompson & Nate Cook
+- [Test-Driven iOS Development](https://www.amazon.co.uk/Test-Driven-iOS-Development-Developers-Library/dp/0321774183) - Graham Lee
+
 # Blogs
+- [Airspeed Velocity](https://airspeedvelocity.net/)
+- [Artsy](http://artsy.github.io/)
+- [NSHipster](http://nshipster.com/)
+- [objc.io](https://www.objc.io/)
 
 # Conferences
 ## UK
+- [CodeMobile](https://www.codemobile.co.uk)
 - [iOSCon](https://skillsmatter.com/conferences/10823-ioscon-2019-the-conference-for-ios-and-swift-developers)
 - [iOSDevUK](https://www.iosdevuk.com/)
 ## US
 - [WWDC](https://developer.apple.com/wwdc/)
+
+# Courses
+- [Pluralsight](https://www.pluralsight.com)
+- [Udemy](https://www.udemy.com)
 
 # Curations
 - [iOSDevDirectory](https://iosdevdirectory.com/) - iOSDevDirectory is a comprehensive collection of resources for iOS developers including blogs, podcasts, newsletters and YouTube channels.
@@ -74,6 +91,7 @@ Resources for developers and designers seeking to create accessible iOS apps.
 - [iOS Dev Weekly](https://iosdevweekly.com/) - Weekly newsletter out each Friday with an overview of what's happening in iOS.
 - [iOS Goodies](https://ios-goodies.com/)
 - [Swift by Sundell](https://www.swiftbysundell.com/newsletter/)
+- [Swiftweekly](http://swiftweekly.com/)
 - [Swift Weekly Brief](https://swiftweekly.github.io/) - Newsletter with more of a focus on Swift open source development than iOS.
 
 # Tools
@@ -94,4 +112,5 @@ Resources for developers and designers seeking to create accessible iOS apps.
 
 # Videos
 - [objc.io](https://www.objc.io/)
+- [NSScreencast](https://nsscreencast.com/)
 - [WWDC Session Videos](https://developer.apple.com/videos/)
