@@ -34,7 +34,7 @@ Resources for developers and designers seeking to create accessible iOS apps.
 # Architecture
 ## Coordinators
 
-- [Coordinators Redux](http://khanlou.com/2015/10/coordinators-redux/)
+- [The Coordinator](http://khanlou.com/2015/01/the-coordinator/) and [Coordinators Redux](http://khanlou.com/2015/10/coordinators-redux/) blog posts by Soroush Khanlou
 - [Coordinator Tutorial for iOS: Getting Started](https://www.raywenderlich.com/158-coordinator-tutorial-for-ios-getting-started)
 - [How to use the coordinator pattern in iOS apps](https://www.hackingwithswift.com/articles/71/how-to-use-the-coordinator-pattern-in-ios-apps)
 
